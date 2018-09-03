@@ -1,6 +1,6 @@
 # 'open in' buttons for MacOS X Finder toolbar
 
-![screenshot](src/images/screenshot.png "screenshot")
+![screenshot](src/images/apps.png "screenshot")
 
 ## Available apps
 
@@ -9,6 +9,7 @@
 - TextMate
 - Visual Studio Code
 - Sublime text
+- Vim
 - Atom
 
 ## How to
